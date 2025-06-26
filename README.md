@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anagrassmann
 - 👀 I’m interested in UI, UX and digital marketing 
-- 🌱 I’m currently learning how to design in figma
+- 🌱 I’m currently learning about ui
 - 💞️ I’m looking to collaborate on projects that need an eye to design 
 - 📫 How to reach me: anagrassmann@gmail.com
 
